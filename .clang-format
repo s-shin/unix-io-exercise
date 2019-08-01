@@ -1,0 +1,5 @@
+BasedOnStyle: Google
+CommentPragmas: '\*'
+DerivePointerAlignment: false
+FixNamespaceComments: true
+Standard: Cpp11
